@@ -1,11 +1,11 @@
-# 💊 DoseGuardian – Intelligent Pill-Taking Assistant
+# 💊 Dose Guardian – Intelligent Pill-Taking Assistant
 
-DoseGuardian is an embedded-system–based intelligent medication reminder and monitoring system. It is designed to help patients—especially elderly people and those under long-term treatment—take their prescribed medicines on time and avoid missed doses.
+Dose Guardian is an embedded-system–based intelligent medication reminder and monitoring system. It is designed to help patients—especially elderly people and those under long-term treatment—take their prescribed medicines on time and avoid missed doses.
 
 ---
 
 ## 🧠 Problem Statement
-Many patients forget or skip their medication schedules, which can lead to serious health complications and reduced treatment effectiveness. DoseGuardian solves this problem by using a microcontroller-based reminder system with real-time alerts and user acknowledgment.
+Many patients forget or skip their medication schedules, which can lead to serious health complications and reduced treatment effectiveness. Dose Guardian solves this problem by using a microcontroller-based reminder system with real-time alerts and user acknowledgment.
 
 ---
 
@@ -165,6 +165,7 @@ To design and implement an intelligent pill-taking assistant that reminds users 
 ---
 
 ### 👤Developed By
+
 **P.V.Geetha Sri**  
 Electronics and Communication Engineering  
 Developer of DoseGuardian – *Intelligent Pill-Taking Assistant*
