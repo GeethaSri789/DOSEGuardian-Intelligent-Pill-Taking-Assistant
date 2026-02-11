@@ -60,7 +60,7 @@ To design and implement an intelligent pill-taking assistant that reminds users 
 ### 4️⃣ User Acknowledgment
 - User presses **Switch 2** to confirm medicine intake
 - If not acknowledged within a given time:
-  - **Red LED turns ON**, indicating a missed dose
+- **Red LED turns ON**, indicating a missed dose
 
 ---
 
@@ -76,31 +76,101 @@ To design and implement an intelligent pill-taking assistant that reminds users 
 
 ---
 
-
 ## 📸LCD Display
 
-
 ### Full Proteus Setup
+![WhatsApp Image 2026-02-09 at 11 09 11 PM](https://github.com/user-attachments/assets/160c0fee-2947-4cfc-ad0f-5495c2e1e473)
 
-![WhatsApp Image 2026-02-09 at 11 09 40 PM](https://github.com/user-attachments/assets/afece184-e9f7-4527-b26a-736a4731c29f)
+---
 
-### Main Menu
-![WhatsApp Image 2026-02-![WhatsApp Image 2026-02-09 at 11 08 52 PM](https://github.com/user-attachments/assets/b50acbe9-bb61-4e50-90ab-8db08bd46d45)
+### ⌚ Main Menu
+![WhatsApp Image 2026-02-09 at 11 08 52 PM](https://github.com/user-attachments/assets/b941c5e3-92dd-4f01-bece-904d1f98ec1b)
+
+---
 
 ### ✏️ Editing Time & Set Medicine Time
+- Right ( > ) → Move between HH • MM • SS
+- Left ( < ) → Move backward
+- ↑ → Increase value
+- ↓ → Decrease value
 
-Right ( > ) → Move between HH • MM • SS
-Left ( < ) → Move backward
-↑ → Increase value
-↓ → Decrease value
+![WhatsApp Image 2026-02-09 at 11 08 56 PM](https://github.com/user-attachments/assets/7c36803c-2c52-4d28-81f9-cd4af6e576e3)
 
-09 at 11 09 48 PM](https://githu![WhatsApp Image 2026-02-09 at 11 08 56 PM](https://github.com/user-attachments/assets/92391fd7-067f-47e8-b739-8d9bb99b342c)
+---
 
 ### 💊 Medicine Time
-
 ![WhatsApp Image 2026-02-09 at 11 09 27 PM](https://github.com/user-attachments/assets/f9431a99-abdc-4a95-933a-84ad2dba80b0)
 
-LCD shows TIME FOR MEDICINE
-Buzzer turns ON 🔔
+- LCD shows TIME FOR MEDICINE
+- Buzzer turns ON 🔔
 
+---
 
+### ⏰ Switch Pressed
+![WhatsApp Image 2026-02-09 at 11 09 40 PM](https://github.com/user-attachments/assets/d6880e4a-f6eb-4aeb-b699-0bce9e66ad69)
+
+- When Switch is press within medicine time
+- Buzzer turn OFF 🔕
+- Green LED glows for attention 💡
+
+---
+
+### ⌛ Switch Not Pressed
+
+![WhatsApp Image 2026-02-09 at 11 09 48 PM](https://github.com/user-attachments/assets/67f2ddc8-dd4a-44ba-a5db-85c95e8c2a5b)
+
+- When Switch is not pressed within time
+- Buzzer turn OFF 🔕
+- Red LED glows for attention 💡
+  
+---
+
+### 🔑Keypad Controls
+| Key         | Function                  |
+| ----------- | ------------------------- |
+| `A`         | Move selection forward    |
+| `B`         | Move selection backward   | 
+| `C`         | Decrement value           | 
+| `D`         | Increment value           |             
+| `=`         | Save / Confirm            |
+
+---
+
+### 🧭 User Guide
+1. Power on the system — the LCD shows Date & Time.
+2. Press the configured menu switch to enter settings.
+3. Use the keypad to edit:
+    * RTC Time (HH:MM:SS)
+    * RTC Date (DD/MM/YYYY)
+    * Device ON Time
+    * Device OFF Time
+4. Navigation controls:
+    * “>” → Move Right
+    * “<” → Move Left
+    * ↑ → Increment
+    * ↓ → Decrement
+5. Confirm inputs — invalid entries trigger warnings.
+6. Exit to return to normal running mode with updated parameters.
+
+---
+
+### 💡Future Enhancements
+- Multiple medicine schedules
+- EEPROM or Flash memory storage
+- GSM or SMS alert system
+- Mobile application integration
+- Voice reminders
+- Low-power sleep mode
+
+---
+
+### 👤Developed By
+**P.V.Geetha Sri**  
+Electronics and Communication Engineering  
+Developer of DoseGuardian – *Intelligent Pill-Taking Assistant*
+
+---
+
+### 📜License
+This project is developed for academic and learning purposes. You are free to modify and enhance it with proper credit.  
+⭐ If you find this project useful, consider giving it a star on GitHub.
