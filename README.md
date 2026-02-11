@@ -76,6 +76,31 @@ To design and implement an intelligent pill-taking assistant that reminds users 
 
 ---
 
-## 📋 Menu Options
+
+## 📸LCD Display
+
+
+### Full Proteus Setup
+
+![WhatsApp Image 2026-02-09 at 11 09 40 PM](https://github.com/user-attachments/assets/afece184-e9f7-4527-b26a-736a4731c29f)
 
 ### Main Menu
+![WhatsApp Image 2026-02-![WhatsApp Image 2026-02-09 at 11 08 52 PM](https://github.com/user-attachments/assets/b50acbe9-bb61-4e50-90ab-8db08bd46d45)
+
+### ✏️ Editing Time & Set Medicine Time
+
+Right ( > ) → Move between HH • MM • SS
+Left ( < ) → Move backward
+↑ → Increase value
+↓ → Decrease value
+
+09 at 11 09 48 PM](https://githu![WhatsApp Image 2026-02-09 at 11 08 56 PM](https://github.com/user-attachments/assets/92391fd7-067f-47e8-b739-8d9bb99b342c)
+
+### 💊 Medicine Time
+
+![WhatsApp Image 2026-02-09 at 11 09 27 PM](https://github.com/user-attachments/assets/f9431a99-abdc-4a95-933a-84ad2dba80b0)
+
+LCD shows TIME FOR MEDICINE
+Buzzer turns ON 🔔
+
+
