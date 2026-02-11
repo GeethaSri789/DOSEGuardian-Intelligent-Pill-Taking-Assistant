@@ -106,7 +106,7 @@ To design and implement an intelligent pill-taking assistant that reminds users 
 
 ---
 
-### ⏰ Switch Pressed
+## ⏰ Switch Pressed
 ![WhatsApp Image 2026-02-09 at 11 09 40 PM](https://github.com/user-attachments/assets/d6880e4a-f6eb-4aeb-b699-0bce9e66ad69)
 
 - When Switch is press within medicine time
@@ -115,7 +115,7 @@ To design and implement an intelligent pill-taking assistant that reminds users 
 
 ---
 
-### ⌛ Switch Not Pressed
+## ⌛ Switch Not Pressed
 
 ![WhatsApp Image 2026-02-09 at 11 09 48 PM](https://github.com/user-attachments/assets/67f2ddc8-dd4a-44ba-a5db-85c95e8c2a5b)
 
@@ -125,7 +125,7 @@ To design and implement an intelligent pill-taking assistant that reminds users 
   
 ---
 
-### 🔑Keypad Controls
+## 🔑Keypad Controls
 | Key         | Function                  |
 | ----------- | ------------------------- |
 | `A`         | Move selection forward    |
@@ -136,7 +136,7 @@ To design and implement an intelligent pill-taking assistant that reminds users 
 
 ---
 
-### 🧭 User Guide
+## 🧭 User Guide
 1. Power on the system — the LCD shows Date & Time.
 2. Press the configured menu switch to enter settings.
 3. Use the keypad to edit:
@@ -154,7 +154,7 @@ To design and implement an intelligent pill-taking assistant that reminds users 
 
 ---
 
-### 💡Future Enhancements
+## 💡Future Enhancements
 - Multiple medicine schedules
 - EEPROM or Flash memory storage
 - GSM or SMS alert system
@@ -164,14 +164,13 @@ To design and implement an intelligent pill-taking assistant that reminds users 
 
 ---
 
-### 👤Developed By
-
+## 👤Developed By
 **P.V.Geetha Sri**  
 Electronics and Communication Engineering  
 Developer of DoseGuardian – *Intelligent Pill-Taking Assistant*
 
 ---
 
-### 📜License
+## 📜License
 This project is developed for academic and learning purposes. You are free to modify and enhance it with proper credit.  
 ⭐ If you find this project useful, consider giving it a star on GitHub.
